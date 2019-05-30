@@ -1,0 +1,17 @@
+2019-05-30 17:37:21.296 [  INFO ] [restartedMain] com.kambaa.main.PgpApplication           : Starting PgpApplication on 26-KI-PC with PID 11572 (C:\Users\Kambaa\git\SpringBoot-PGP\target\classes started by Kambaa in C:\Users\Kambaa\git\SpringBoot-PGP)
+2019-05-30 17:37:21.301 [  INFO ] [restartedMain] com.kambaa.main.PgpApplication           : No active profile set, falling back to default profiles: default
+2019-05-30 17:37:21.375 [  INFO ] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-05-30 17:37:21.376 [  INFO ] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-05-30 17:37:23.133 [  INFO ] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-05-30 17:37:23.143 [  INFO ] [restartedMain] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2019-05-30 17:37:23.143 [  INFO ] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-05-30 17:37:23.144 [  INFO ] [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.20]
+2019-05-30 17:37:23.259 [  INFO ] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-05-30 17:37:23.260 [  INFO ] [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1884 ms
+2019-05-30 17:37:23.961 [  INFO ] [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-30 17:37:24.147 [  INFO ] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-05-30 17:37:24.171 [  INFO ] [restartedMain] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2019-05-30 17:37:24.280 [  INFO ] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-30 17:37:24.285 [  INFO ] [restartedMain] com.kambaa.main.PgpApplication           : Started PgpApplication in 3.84 seconds (JVM running for 7.145)
+2019-05-30 17:37:50.386 [  INFO ] [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-05-30 17:37:50.393 [  INFO ] [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
